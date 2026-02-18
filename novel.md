@@ -336,7 +336,7 @@ Irene: Realized she fucked up ignoring Rei's reports, suspended both Specialists
 Azael: Saved all the kids but is now under surveillance, demonstrated abilities in front of witnesses, can't stay invisible anymore
 Specialists (Val & Ananas): SUSPENDED, exposed as incompetent, didn't read reports, more worried about Level 1 than saving kids
 The Systemic Failure Documentation:
-Rei's 23 critical Level 1 assets (Clara, Damion & Ann, Celeste, Cecil, the cook)
+Rei's 23 critical Level 1 assets (Clara, Damian & Ann, Celeste, Cecil, the cook)
 All lost access due to mana requirements
 Rei warned capital REPEATEDLY (ignored every time)
 Clara couldn't report missing children after losing Level 1 status
@@ -747,7 +747,7 @@ Marvenna reached beneath her desk and produced a thick leather-bound journal. Sh
 She opened the journal, pages worn from frequent handling. Irene leaned forward, scanning the neat script that filled each line. Names. Dates. Observations written in Rei's careful hand.
 "Clara isn't the only one." Marvenna's finger traced down a list. "Rei refused to let go of several rank ones. People with low mana levels who possessed abilities she judged necessary."
 Irene read silently. Her jaw tightened with each entry.
-"Clara knew everything that happened in dirty alleys, with people society ignored." Marvenna turned a page. "Damion and his daughter Ann—hunters. They knew the western forest like the back of their hands. Could track anything, create traps, guide whoever needed it."
+"Clara knew everything that happened in dirty alleys, with people society ignored." Marvenna turned a page. "Damian and his daughter Ann—hunters. They knew the western forest like the back of their hands. Could track anything, create traps, guide whoever needed it."
 Seraphine moved closer, reading over Irene's shoulder. The entries continued, detailed and thorough.
 "Teacher Celeste. Mana almost zero, but somehow made everyone around her calmer just by being near." Marvenna's tone remained flat, professional. "Cecil, the scholar. Knew mushrooms, roots, leaves, moss, and insects like they were old friends. A cook in midtown who could guess someone or something's favorite dish just by looking at them."
 Irene's fingers gripped the journal's edge. "I never got any of this."
@@ -814,8 +814,8 @@ Desire for Action
 Chapter 3
 Seraphine selects a quest for the missing caravan in the Red Forest at the guild hall with Marvenna's guidance. At Mirtha's bakery, Seraphine discusses displaced level ones with Elena, Mirtha, and Anathema, then convinces Azael to join despite her reluctance.
 That afternoon, Seraphine prepares gear at the armory and dines with Lina and Sora at the tavern, where they analyze Azael's abilities and note Seraphine's fixation.
-Next morning at the city's edge, Seraphine meets Azael and Anathema, then they visit Damion's cottage to recruit him and Ann amid tensions over guild changes.
-The group proceeds toward the Red Forest, with Damion and Ann leading on terrain.
+Next morning at the city's edge, Seraphine meets Azael and Anathema, then they visit Damian's cottage to recruit him and Ann amid tensions over guild changes.
+The group proceeds toward the Red Forest, with Damian and Ann leading on terrain.
 
  
 Chapter 2, Scene 2 (Continued)
@@ -898,11 +898,11 @@ Mirtha snorted. "She didn't care about the guild that much. But Rei was adamant 
 The words landed heavier than Seraphine expected. She pulled the quest posting from her pocket, smoothed it against her thigh.
 "I've got a mission. Red Forest. But I'm hesitant—I don't know much about the geography up there." She glanced at Mirtha. "Does Clara perhaps know more?"
 Elena laughed, sharp and genuine. "That woman knows people and this shitty city's holes. If you want to go inside the forest, you need hunters."
-"We like Damion the most." Anathema's voice carried warmth. "He and Ann stopped us from getting lost many times."
+"We like Damian the most." Anathema's voice carried warmth. "He and Ann stopped us from getting lost many times."
 Mirtha grinned. "Oh, and we know your owner can't follow a map for the life of her."
 "True." Anathema's head tilted toward Azael. "But she gets mad if you say that to her face."
 Azael glared at him over her coffee mug.
-Elena leaned against the counter. "Damion always gets the biggest animals. The tavern I work for adores when he shows up with fresh hunt."
+Elena leaned against the counter. "Damian always gets the biggest animals. The tavern I work for adores when he shows up with fresh hunt."
 "Who doesn't?" Mirtha wiped flour from her hands. "That man can track and hunt anything that moves. His kid's not far behind."
 Seraphine's pulse quickened. "Where can I find him?"
 "Going on missions with people not enrolled in the guild is a violation of the code," Anathema said.
@@ -1009,7 +1009,7 @@ Seraphine's jaw clenched. "You're the one who keeps bringing it up."
 "They do not!"
 Anathema stood between them, roots shifting in their sockets, waiting with the patience of stone. The silence stretched. Seraphine exhaled hard through her nose.
 "Let's go." She adjusted her pack with more force than necessary. "The mission has little information, so we'll have to be creative."
-Azael nodded, yawn fading into focus. "Well, let's go after Damion then."
+Azael nodded, yawn fading into focus. "Well, let's go after Damian then."
 Seraphine paused mid-step. "Isn't that against the rules?"
 "It's against the rules to take a non-adventurer on a mission." Azael's smile sharpened. "However, there's nothing about tagging along with a hunter doing their everyday job and by coincidence handling a quest."
 The logic clicked into place—clean, elegant, completely sidestepping guild regulations without technically breaking them. Seraphine's mouth curved slow, something warm unfurling in her chest.
@@ -1017,7 +1017,7 @@ The logic clicked into place—clean, elegant, completely sidestepping guild reg
 "So is my cleavage." Azael gestured at her fully-buttoned coat. "So eyes up, hero."
 Seraphine's face went scarlet again. She turned sharply east and started walking before her mouth could make things worse.
 
-Damion's cottage sat far from the city center, tucked where farmland met forest edge. The path wound through fields gone fallow for winter, frost crunching under their boots.
+Damian's cottage sat far from the city center, tucked where farmland met forest edge. The path wound through fields gone fallow for winter, frost crunching under their boots.
 Anathema walked point, his bulk casting long shadows in the early light. Azael followed several paces back, hands in her pockets, occasionally glancing around with the lost expression of someone who'd never seen this road before in her life.
 "Are we going the right way?" Azael squinted at a fence post.
 "Yes," Anathema rumbled.
@@ -1040,83 +1040,83 @@ Seraphine's jaw dropped. "I'm looking at your face right now!"
 Seraphine opened her mouth. Closed it. Opened it again. No words came.
 Anathema continued walking, unbothered, morning light catching on his bark. Behind him, Seraphine's face burned hot enough to melt the frost, and Azael hummed something tuneless, hands still in her pockets, looking entirely too pleased with herself.
 
-The knife scraped against the whetstone in long, methodical strokes—a sound that raised the hairs on the back of Seraphine's neck. Damion sat on his porch, weathered hands working the blade with the ease of decades, gray threading through his dark hair. He looked up without surprise or interest, gaze tracking past Azael to Anathema and settling there.
+The knife scraped against the whetstone in long, methodical strokes—a sound that raised the hairs on the back of Seraphine's neck. Damian sat on his porch, weathered hands working the blade with the ease of decades, gray threading through his dark hair. He looked up without surprise or interest, gaze tracking past Azael to Anathema and settling there.
 Anathema stopped several paces back. Azael pushed forward, hands still in her pockets, smile easy.
 "So, how are you doing, mr hunter man?"
-Damion's mouth twitched. The knife stilled. "Shut up. What are you doing here? Did you get lost trying to get to the tavern?"
+Damian's mouth twitched. The knife stilled. "Shut up. What are you doing here? Did you get lost trying to get to the tavern?"
 "That was mean."
 He set the whetstone aside, smirk sharpening. "For real, or are you finally confessing to me?"
 Seraphine's jaw clenched. Her fingers curled against her palm, nails biting skin.
 Azael's laugh rang bright across the clearing. "Again, that was mean. And no, you're too old for me."
-Damion's laughter boomed, loud enough to rattle the shutters. He wiped his eyes, grin splitting his face. "What do you two need?"
+Damian's laughter boomed, loud enough to rattle the shutters. He wiped his eyes, grin splitting his face. "What do you two need?"
 Azael glanced back. Seraphine stepped forward, shoulders squared.
 "I'm sorry to bother you. I'm Seraphine from the capital."
-The warmth drained from Damion's expression. His gaze raked over her—boots to hairline, cataloguing. "Ah. The pet of the new guild leader." The knife resumed its scraping, slower. "How did throwing us all out feel?"
+The warmth drained from Damian's expression. His gaze raked over her—boots to hairline, cataloguing. "Ah. The pet of the new guild leader." The knife resumed its scraping, slower. "How did throwing us all out feel?"
 The words landed clean, precise. No anger. Just fact.
 Seraphine's throat tightened. "Not good at all."
-"Good." Damion tested the blade's edge with his thumb. "I don't care about that at all. But Clara was essential." His eyes lifted, sharper than the steel in his hand. "Also, I'm getting old. Ann may not be as forgiving."
+"Good." Damian tested the blade's edge with his thumb. "I don't care about that at all. But Clara was essential." His eyes lifted, sharper than the steel in his hand. "Also, I'm getting old. Ann may not be as forgiving."
 "I can totally understand that."
-The scraping stopped. Damion studied her face—searching for mockery, for platitudes, for whatever nobles usually offered when confronted with consequences. Whatever he found made his shoulders loosen, fraction by fraction.
+The scraping stopped. Damian studied her face—searching for mockery, for platitudes, for whatever nobles usually offered when confronted with consequences. Whatever he found made his shoulders loosen, fraction by fraction.
 "It's against the rules to take a non-adventurer on a quest."
 Azael's smile curved wicked. "We won't take you with us, obviously. You'll just be near. Coincidentally."
-Seraphine watched the exchange—the easy rhythm of it, the way Damion's smirk softened around the edges when Azael spoke, the casual intimacy of old jokes worn smooth with repetition. Something hot and uncomfortable twisted behind her ribs.
-She didn't recognize it at first. The sensation felt foreign, wrong, like trying on armor that didn't fit. Then Azael tilted her head, sunlight catching on the ink crawling up her throat, and Damion chuckled low in his chest, and Seraphine's stomach dropped.
+Seraphine watched the exchange—the easy rhythm of it, the way Damian's smirk softened around the edges when Azael spoke, the casual intimacy of old jokes worn smooth with repetition. Something hot and uncomfortable twisted behind her ribs.
+She didn't recognize it at first. The sensation felt foreign, wrong, like trying on armor that didn't fit. Then Azael tilted her head, sunlight catching on the ink crawling up her throat, and Damian chuckled low in his chest, and Seraphine's stomach dropped.
 Jealousy.
 The realization hit like cold water.
-She had no right to it. No claim. Azael was a stranger—an infuriating, button-pushing, cleavage-flaunting stranger who'd done nothing but tease her since they'd met. The flirting meant nothing. Azael probably talked to everyone like that. Probably had a hundred Damions scattered across the West, people who knew her well enough to laugh at her jokes, to offer casual confessions and rejections in the same breath.
+She had no right to it. No claim. Azael was a stranger—an infuriating, button-pushing, cleavage-flaunting stranger who'd done nothing but tease her since they'd met. The flirting meant nothing. Azael probably talked to everyone like that. Probably had a hundred Damians scattered across the West, people who knew her well enough to laugh at her jokes, to offer casual confessions and rejections in the same breath.
 It meant nothing.
 So why did Seraphine's jaw ache from clenching?
-Damion rose, knife in hand, movements economical. "What's the job?"
+Damian rose, knife in hand, movements economical. "What's the job?"
 "Red Forest." Seraphine forced her voice steady. "Caravan went missing three weeks ago. Last contact was near the eastern edge."
-"Three weeks?" Damion's brows drew together. "That's deep. The forest shifts daily—paths close, landmarks move. You're not finding tracks."
+"Three weeks?" Damian's brows drew together. "That's deep. The forest shifts daily—paths close, landmarks move. You're not finding tracks."
 "I know." Seraphine met his gaze. "I need someone who knows the terrain. Who can read the forest even when it's lying."
-Silence stretched. Damion looked at Azael. Back to Seraphine. His mouth curved, slow and considering.
+Silence stretched. Damian looked at Azael. Back to Seraphine. His mouth curved, slow and considering.
 "Ann's gonna love this."
 "Is she here?"
-"Hunting." Damion jerked his chin toward the tree line. "Should be back soon." He crossed to the porch railing, propped one boot on the lowest slat. "So. Capital pet and the lost wanderer. What's the real reason you're out here?"
+"Hunting." Damian jerked his chin toward the tree line. "Should be back soon." He crossed to the porch railing, propped one boot on the lowest slat. "So. Capital pet and the lost wanderer. What's the real reason you're out here?"
 Azael turned, sunglasses reflecting the morning light. "Well?" Her head tilted toward Seraphine. "You're the boss here."
 The words settled wrong—formal where everything else between them stayed sharp and teasing. Seraphine swallowed against the bitter taste coating her tongue, forced her shoulders back.
 "I don't know the geography. I'm uncomfortable going in blind."
-Damion's laughter exploded across the clearing—loud enough to scatter birds from the nearby trees. He doubled over, one hand braced on his knee, knife dangling forgotten from the other.
+Damian's laughter exploded across the clearing—loud enough to scatter birds from the nearby trees. He doubled over, one hand braced on his knee, knife dangling forgotten from the other.
 "You're insecure about geography—" He gasped for air. "—and you went after the one person who'd get lost in her own home?"
 Azael's gasp rang theatrical, hand pressed to her chest. "I resent that."
 "The kids glued arrows on the walls," Anathema rumbled, "to make sure she wouldn't get lost."
-Damion's laughter redoubled. He wiped his eyes, shoulders shaking. "Those little shits crack me up every time." He straightened, grin still splitting his face. "Fine. Fine."
+Damian's laughter redoubled. He wiped his eyes, shoulders shaking. "Those little shits crack me up every time." He straightened, grin still splitting his face. "Fine. Fine."
 He stood, testing the knife's balance in his palm, gaze settling on Seraphine. "I'll help. But only because I don't want Rei or Mirtha angry at me when this one here can't find her way back."
 The words should've lightened the mood. Should've pulled a smile from Seraphine, easy camaraderie between strangers becoming allies.
 Nothing came.
-Annoyance prickled along her spine—hot and irrational and impossible to shake. At Damion's easy familiarity with Azael. At the arrows on the walls she hadn't seen. At the way everyone else seemed to know Azael's rhythms, her patterns, the shape of her humor, while Seraphine fumbled through conversations like walking unmarked terrain in the dark.
+Annoyance prickled along her spine—hot and irrational and impossible to shake. At Damian's easy familiarity with Azael. At the arrows on the walls she hadn't seen. At the way everyone else seemed to know Azael's rhythms, her patterns, the shape of her humor, while Seraphine fumbled through conversations like walking unmarked terrain in the dark.
 She forced her jaw to unclench. "I thank you immensely. I'm trying to prove something to the guild leader."
-Damion's smirk sharpened. "Prove that Rei was right?" He slid the knife into its sheath with practiced ease. "Heh. Easiest thing ever." He turned toward the cottage, pulled a crystal communicator from his belt. "Let me call Ann back. But I want you to handle her. She's pissed at the guild."
+Damian's smirk sharpened. "Prove that Rei was right?" He slid the knife into its sheath with practiced ease. "Heh. Easiest thing ever." He turned toward the cottage, pulled a crystal communicator from his belt. "Let me call Ann back. But I want you to handle her. She's pissed at the guild."
 The crystal flared blue-white in his palm, magic humming through the air.
 Azael groaned, head tipping back toward the sky. "Ahh, a pissy teenager. Are you regretful already, hero?"
 "Think of it as training," Anathema offered. His roots shifted in their sockets, turning toward Azael. "For when Bia gets there."
-Azael paled. The color drained from her face so fast Seraphine might've laughed under different circumstances. "Oh dear." Her voice dropped flat. "None of us are ready for that." She gestured toward Damion. "You can just send her here. Mister hunter is used to it."
-Damion set the communicator down, magic fading. "No thanks. I'm done for this life with teenagers."
+Azael paled. The color drained from her face so fast Seraphine might've laughed under different circumstances. "Oh dear." Her voice dropped flat. "None of us are ready for that." She gestured toward Damian. "You can just send her here. Mister hunter is used to it."
+Damian set the communicator down, magic fading. "No thanks. I'm done for this life with teenagers."
 "But you raised one," Azael protested.
-"Exactly." Damion crossed his arms. "Why do you think I'm done?"
+"Exactly." Damian crossed his arms. "Why do you think I'm done?"
 Seraphine's mouth twitched despite herself—the first crack in the tension coiled tight behind her ribs. Azael caught it, gaze tracking to Seraphine's face even through the sunglasses.
 Their eyes met.
 The world narrowed again—that same pull, that same sensation of stepping on ground that wasn't solid. Azael's smile curved slow, knowing.
 "There she is."
 Heat flooded Seraphine's cheeks. She looked away first, jaw clenching against words she couldn't name.
 Footsteps approached from the tree line—light, fast, accompanied by the rustle of disturbed undergrowth.
-Damion straightened. "That'll be Ann."
+Damian straightened. "That'll be Ann."
 The girl who emerged from the tree line moved with the careless confidence of someone who knew the forest better than her own reflection. Dark hair tied back, bow slung across her shoulders, chin already lifted in challenge before she'd fully cleared the underbrush.
 Ann's gaze locked on Seraphine. Her mouth twisted.
 Azael took two deliberate steps backward, hands finding Seraphine's shoulders. She pushed—gentle but firm, propelling Seraphine forward like a shield.
 "You're the hero who protects the weakest." Azael's voice stayed cheerful, bright with false innocence. "And that's me."
-Damion retreated as well, boots scraping gravel. He crossed his arms, expression settling into something between amusement and resignation. "Don't take it personal. Teenager hormones."
+Damian retreated as well, boots scraping gravel. He crossed his arms, expression settling into something between amusement and resignation. "Don't take it personal. Teenager hormones."
 Ann's gaze raked over Seraphine's armor—polished steel, guild insignia gleaming at the shoulder, the kind of equipment that cost more than most families earned in a year. Her lip curled.
-"Oh. I thought we didn't have enough mana for your people." Each word dripped venom. "If you get lost, just use a spell or whatever you people do." She swung toward Damion. "What am I doing here?"
+"Oh. I thought we didn't have enough mana for your people." Each word dripped venom. "If you get lost, just use a spell or whatever you people do." She swung toward Damian. "What am I doing here?"
 Seraphine straightened, jaw tight. "I understand you're angry, but—"
 "Angry?" Ann's laugh came sharp. "Why would I be angry? Just because the guild decided my dad wasn't good enough anymore? Just because Clara can't post jobs, can't help the kids she's been protecting for years?" She stepped closer. "Just because people who've kept this shithole running got thrown out so capital pets like you could feel important?"
 "That's not—"
 "Save it." Ann's hands clenched. "I don't care what excuses—"
 "Your father raised you better than that."
-Azael's voice cut clean through Ann's tirade. Not loud. Not harsh. Just flat, matter-of-fact, carrying the weight of someone who'd watched Damion's work for years.
+Azael's voice cut clean through Ann's tirade. Not loud. Not harsh. Just flat, matter-of-fact, carrying the weight of someone who'd watched Damian's work for years.
 Ann froze mid-breath.
-Damion's mouth curved. "I sure did." He jerked his chin toward the cottage. "Pack your stuff. We're going."
+Damian's mouth curved. "I sure did." He jerked his chin toward the cottage. "Pack your stuff. We're going."
 Ann's jaw worked. Color flooded her cheeks—embarrassment mixing with fury, the volatile combination of being called out by someone she couldn't dismiss. She spun on her heel and stalked toward the cottage, shoulders rigid.
 Azael turned to Seraphine, hands still in her pockets. "When I said to protect me, I didn't mean you have to take all that."
 Seraphine exhaled hard, tension bleeding from her shoulders. "Well." Her voice came quiet. "She isn't wrong. We messed up something that was working."
@@ -1125,42 +1125,42 @@ Azael studied her face. Even through the sunglasses, Seraphine felt the weight o
 "Now you're trying to fix it." Azael's tone gentled, just slightly. "Cheer up, hero." Her smile curved wicked. "Do you want me to unfasten a couple buttons to make you happy?"
 Heat flooded Seraphine's face. "You will never drop it, right?"
 "Never." Azael's smirk sharpened.
-The cottage door banged open. Ann emerged with a pack slung over one shoulder, bow in hand, expression still thunderous. She didn't look at Seraphine. Didn't acknowledge anyone except Damion.
+The cottage door banged open. Ann emerged with a pack slung over one shoulder, bow in hand, expression still thunderous. She didn't look at Seraphine. Didn't acknowledge anyone except Damian.
 "Ready."
-Damion clapped her shoulder. "Good girl." He turned to Seraphine, something serious settling over his weathered features. "The Red Forest doesn't forgive mistakes. You follow our lead on terrain, we follow yours on combat. Clear?"
+Damian clapped her shoulder. "Good girl." He turned to Seraphine, something serious settling over his weathered features. "The Red Forest doesn't forgive mistakes. You follow our lead on terrain, we follow yours on combat. Clear?"
 Seraphine nodded. "Clear."
 "Then let's move before the paths shift again."
-They headed east, where farmland gave way to wilderness and the tree line rose dark against the morning sky. Anathema walked point, massive and steady. Damion and Ann flanked them, father and daughter moving with identical economy of motion.
+They headed east, where farmland gave way to wilderness and the tree line rose dark against the morning sky. Anathema walked point, massive and steady. Damian and Ann flanked them, father and daughter moving with identical economy of motion.
 Azael stayed close to Seraphine, hands in pockets, gaze wandering everywhere except the path ahead.
 The Red Forest waited.
 
 Chapter 4
-Damion instructs the group to follow single file into the Red Forest, warning of Fae territory dangers that twist reality. Ann complains about guild regulations forcing inexperienced escorts. They camp at the entrance until dawn. Seraphine questions Azael about her low mana and Anathema's origins; Azael explains Anathema as a protective gift from her guardian, attributes her luck to divine favor, and reveals Ann's rudeness stems from her recent mother's death. Anathema, Damion, and Ann return with foraged food and game.
+Damian instructs the group to follow single file into the Red Forest, warning of Fae territory dangers that twist reality. Ann complains about guild regulations forcing inexperienced escorts. They camp at the entrance until dawn. Seraphine questions Azael about her low mana and Anathema's origins; Azael explains Anathema as a protective gift from her guardian, attributes her luck to divine favor, and reveals Ann's rudeness stems from her recent mother's death. Anathema, Damian, and Ann return with foraged food and game.
 
-Damion scanned the group, expression settling into the no-nonsense authority of someone who'd guided fools through worse. "This is how it goes. You follow me. No wandering." His gaze locked on Azael. "And yes, I'm talking to you, Pretty Eyes."
+Damian scanned the group, expression settling into the no-nonsense authority of someone who'd guided fools through worse. "This is how it goes. You follow me. No wandering." His gaze locked on Azael. "And yes, I'm talking to you, Pretty Eyes."
 Azael's head snapped up. "Why am I being attacked for free everywhere?"
 Ann snorted, the sound sharp with barely-suppressed amusement.
-Damion didn't smile. "The Red Forest is a mess. We walk single file. Watch where you step." He jerked his chin toward the dark tree line. "Every step matters."
+Damian didn't smile. "The Red Forest is a mess. We walk single file. Watch where you step." He jerked his chin toward the dark tree line. "Every step matters."
 Seraphine shifted, hand resting on her sword pommel. "What exactly is the biggest danger there?"
 Ann's eyes rolled hard enough to strain.
-Damion exhaled through his nose. "Everything and more. That place is..." He gestured vaguely, mouth working around words that wouldn't come. "Ah, explain it better, Wise Tree."
+Damian exhaled through his nose. "Everything and more. That place is..." He gestured vaguely, mouth working around words that wouldn't come. "Ah, explain it better, Wise Tree."
 Anathema tilted his head, roots shifting in empty sockets. "Fae territory."
 The words dropped like stones into still water.
 Seraphine's stomach clenched. "Fae? So they twist reality around the whole forest?"
 "That's the beauty of it." Azael's voice curved with dark amusement. "You can walk through your entire life and never see anything weird. Or you can roam into a strange realm and never return."
 "Very fun."
-Damion's weathered face creased. "Many years ago, hunters and collectors built what we considered a safe path. Until recently, best practice was hiring someone to guide you through—someone who could see the signs when something went wrong, but..."
+Damian's weathered face creased. "Many years ago, hunters and collectors built what we considered a safe path. Until recently, best practice was hiring someone to guide you through—someone who could see the signs when something went wrong, but..."
 Ann's glare snapped to Seraphine like a whip crack. "But the guild said all escort duties should be done only by adventurers. And they're either too expensive or they know jack shit about the forest."
 The words hit harder than Seraphine expected. She'd known the regulations caused problems—Rei's network collapsing proved that—but this ran deeper. Fae territories required expertise that couldn't be measured in mana levels or guild ranks. Even seasoned veterans thought twice before entering those twisted spaces.
 Marvenna had given her this mission. A mission Rei would probably have dragged Azael into regardless.
 Seraphine's jaw tightened. "Understood."
 
 The Red Forest entrance loomed as the afternoon light slanted gold through ordinary trees. Nothing marked it as special—just a subtle shift in the quality of shadows, the way sound seemed to bend wrong.
-Damion surveyed the fading sun. "We stop here. Start fresh at dawn."
-They settled camp with practiced efficiency. Damion gestured Ann toward the perimeter. "Scout around. Set alarms if anything gets close."
+Damian surveyed the fading sun. "We stop here. Start fresh at dawn."
+They settled camp with practiced efficiency. Damian gestured Ann toward the perimeter. "Scout around. Set alarms if anything gets close."
 Ann nodded, already moving.
-Damion turned to Anathema. "Go see if you find anything edible." He patted his pack. "We've got rations, but better to keep them stocked."
-"I will track something." Damion's bow appeared in his hands like he'd conjured it.
+Damian turned to Anathema. "Go see if you find anything edible." He patted his pack. "We've got rations, but better to keep them stocked."
+"I will track something." Damian's bow appeared in his hands like he'd conjured it.
 Seraphine and Azael stood alone in the clearing.
 Seraphine exhaled. "She wasn't rude to me once. I think I'm making progress."
 Azael's laugh came low and genuine. "You didn't see her glaring at you? Bless your heart."
@@ -1211,7 +1211,7 @@ Azael sighed, the sound carrying genuine concession. "Fine. I'll stop flirting w
 "You're a jerk."
 "I know."
 Seraphine shifted, drawing one knee up. "Go on. What happened?"
-"Nothing happened. She was rude and mean, Rei kept trying to play mediator, Damion was a bit angry at her, but..." Azael's fingers traced patterns on the bedroll. "She... well, her mother had passed away very recently. I couldn't hold it against her."
+"Nothing happened. She was rude and mean, Rei kept trying to play mediator, Damian was a bit angry at her, but..." Azael's fingers traced patterns on the bedroll. "She... well, her mother had passed away very recently. I couldn't hold it against her."
 "Oh."
 "Yes. Some adventurers forget that normal people suffer too, you know?"
 Seraphine laid down again, staring at the darkening sky through tree branches. "And now we took one of their incomes and made her feel bad again."
@@ -1222,32 +1222,32 @@ Seraphine grabbed her curled blanket and hurled it across the space between them
 Azael caught it with a laugh, the fabric tangling around her arms.
 
 Anathema emerged from the tree line first, roots shifting in empty sockets as he navigated toward the clearing. His massive hands cradled mushrooms and wild vegetables with surprising delicacy—each piece arranged like he'd selected them individually, which he probably had.
-Damion followed moments later, a brace of rabbits slung over his shoulder. Blood darkened the fur where arrows had found their marks. Clean kills. Professional.
+Damian followed moments later, a brace of rabbits slung over his shoulder. Blood darkened the fur where arrows had found their marks. Clean kills. Professional.
 Ann trailed behind him, expression caught between angry and bored in that specific teenage way that suggested both emotions fought for dominance. Her jaw worked like she wanted to say something cutting but couldn't decide on the target.
 Seraphine sat up, brushing dirt from her armor. "Good haul."
-"Forest is generous if you know where to look." Damion dropped the rabbits near the fire pit they'd assembled. His gaze flicked to Ann, then away. "Start prepping these. I'll get the fire going."
+"Forest is generous if you know where to look." Damian dropped the rabbits near the fire pit they'd assembled. His gaze flicked to Ann, then away. "Start prepping these. I'll get the fire going."
 Ann's glare could've melted steel.
 
 
 * * *
-Damion and Ann lead Seraphine, Azael, and Anathema through the forest, identifying fae markers—arranged stones, picked flowers, a ribbon, and disturbed berries—for Azael.
-At the fae boundary, Damion and Ann wait while Azael sings to attract three fae. Anathema captures one. Seraphine intervenes against another, her magic repelling it. The fae, calling Seraphine "Caillech," release twelve caravan corpses and flee.
+Damian and Ann lead Seraphine, Azael, and Anathema through the forest, identifying fae markers—arranged stones, picked flowers, a ribbon, and disturbed berries—for Azael.
+At the fae boundary, Damian and Ann wait while Azael sings to attract three fae. Anathema captures one. Seraphine intervenes against another, her magic repelling it. The fae, calling Seraphine "Caillech," release twelve caravan corpses and flee.
 The group examines the claw-torn bodies, then summons transport.
 
-Seraphine watched Damion and Ann move through the undergrowth, their footfalls silent despite the carpet of dry leaves. They avoided every twig, every brittle stem—instinct guiding them around noise before conscious thought registered the threat.
-"Giant javali hunts this time of evening," Damion murmured, barely loud enough for her to catch. His hand gestured toward a depression in the soil, three-toed and deep. "Get one of those, hunters can live comfortable for three months. Maybe four if they're careful."
+Seraphine watched Damian and Ann move through the undergrowth, their footfalls silent despite the carpet of dry leaves. They avoided every twig, every brittle stem—instinct guiding them around noise before conscious thought registered the threat.
+"Giant javali hunts this time of evening," Damian murmured, barely loud enough for her to catch. His hand gestured toward a depression in the soil, three-toed and deep. "Get one of those, hunters can live comfortable for three months. Maybe four if they're careful."
 Ann nodded once, already shifting her path to avoid a cluster of dried reeds. No discussion needed. They moved like water finding channels, splitting and merging around obstacles without breaking rhythm.
 Seraphine tried matching their silence. Failed. A branch cracked under her boot.
 Both hunters paused, heads tilting in unison toward the sound, then continued without comment. Professional courtesy, maybe. Or just acknowledgment that adventurers weren't built for this kind of precision.
 Rei had been right. This expertise could shave days off a contract, preserve energy for the actual fight instead of burning it wandering blind through wilderness. Seraphine had tracked before—followed blood trails, broken branches, obvious signs. But this was different. This was reading a language she didn't speak.
 "Flowers picked," Ann said, crouching near a patch of wildflowers. "Three red, two yellow, one white."
-Damion moved closer, examined the stems. "Clean cuts. Not torn."
+Damian moved closer, examined the stems. "Clean cuts. Not torn."
 They both turned toward Azael.
 Azael glanced at Anathema, her fingers tapping against her thigh in that pattern Seraphine recognized now—counting, calculating. "Noted."
 They continued deeper.
 "Azael—stones moved into a circle. Seven of them. Same size."
 Azael paused mid-step, head tilting. "Seven?"
-"Seven," Damion confirmed.
+"Seven," Damian confirmed.
 Seraphine frowned. "What's significant about—"
 "Ribbon caught on that branch." Ann pointed without approaching. "Looks like it's from a caravan supply pack, but it's tied in a bow."
 Seraphine moved toward it, hand extending.
@@ -1255,26 +1255,26 @@ Seraphine moved toward it, hand extending.
 Seraphine froze. "Why?"
 "Just don't."
 Ann continued scanning, her expression shifting from bored to focused. "Berries. All of them gone, but not eaten on site. No seeds, no juice stains. Whoever took them was... neat about it."
-Damion crouched near a disturbed patch of earth, running fingers along parallel grooves. "See the drag marks? Parallel lines, consistent depth. But the person making the tracks..." He shook his head. "Doesn't make sense."
+Damian crouched near a disturbed patch of earth, running fingers along parallel grooves. "See the drag marks? Parallel lines, consistent depth. But the person making the tracks..." He shook his head. "Doesn't make sense."
 "Azael," Ann called back without turning. "Tracks are spaced weird. Like they're skipping. Or dancing."
 Seraphine watched the exchange, watched how they gathered pieces—flowers, stones, ribbons, berries—and offered them to Azael like components of something larger. A puzzle. They weren't reading the forest for themselves. They were collecting data points, filtering information through their expertise before passing relevant fragments to someone who understood the pattern they couldn't see.
-"More stones," Damion reported. "Five this time. Different arrangement. Circle again, but smaller."
+"More stones," Damian reported. "Five this time. Different arrangement. Circle again, but smaller."
 "Flowers here too," Ann added. "Two red, one yellow, three white. Opposite from before."
 Azael's jaw tightened. Her fingers stopped tapping.
 Anathema's roots shifted, the motion almost agitated. His skull turned toward Azael, empty sockets somehow conveying question.
 "Keep going," Azael said quietly. "Tell me everything."
-Damion and Ann exchanged glances, then nodded. They pushed deeper into the forest, movements still silent, still precise. But their hands stayed near weapons now.
+Damian and Ann exchanged glances, then nodded. They pushed deeper into the forest, movements still silent, still precise. But their hands stayed near weapons now.
  
-Damion stopped.
+Damian stopped.
 His hand rose—fist closed, the universal signal for halt. Ann mirrored him half a breath later, both of them staring into the deepening shadows ahead.
-"We only go until here." Damion's voice held no room for negotiation. "The rest is... wrong. We can wait for you here if you need."
+"We only go until here." Damian's voice held no room for negotiation. "The rest is... wrong. We can wait for you here if you need."
 Seraphine frowned. "Wait, what's happening?"
 Ann scoffed. "Fae, dumbass. We told you they like it here."
 The word landed like ice water. Seraphine's hand moved instinctively toward her sword hilt.
 "She's right," Azael said.
 Silence stretched between Azael and Anathema—not the comfortable quiet of companionship, but something heavier. Communication without words, the kind that came from years of proximity. The elemental's roots coiled tighter against his frame.
 Azael turned to the hunters. "Stay here. Count the time. If we don't return in ninety minutes, go to the guild. Ask for Marvenna specifically. Tell her what you found."
-Damion nodded once.
+Damian nodded once.
 Azael's attention shifted to Seraphine. "You know about fae? How comfortable are you with them?"
 "Just theoretical," Seraphine admitted.
 "Good enough." Azael's fingers resumed their tapping pattern. "Listen. I'll sing to get their attention. Your magic should protect you from most of their tricks, so stay hidden. Help if it gets out of hand."
@@ -1316,21 +1316,21 @@ Seraphine's grip on her sword loosened. Her magic ebbed, retreating beneath her 
 Twelve corpses lay scattered across the clearing. Throats torn, clothing shredded. The wounds were days old—long before the fae had claimed them. Whatever killed these people had done it with claws and teeth, not glamour and theft.
 Anathema knelt beside the nearest body, roots extending to check for signs of life.
 Nothing.
-"We should get Damion and Ann," Seraphine said quietly.
+"We should get Damian and Ann," Seraphine said quietly.
 
 The clearing felt lighter—air no longer thick with cloying sweetness. Footsteps approached through the undergrowth, deliberate and cautious.
-Damion and Ann emerged from the treeline, weapons drawn. They paused at the edge of the scattered bodies, taking in the scene with professional detachment.
+Damian and Ann emerged from the treeline, weapons drawn. They paused at the edge of the scattered bodies, taking in the scene with professional detachment.
 "It's been a hundred minutes, by the way." Ann lowered her bow. "We were heading back when the wind shifted."
 Azael's fingers tapped against her thigh. "Ah. The realm distorted time enough for even ours to get caught in it. Interesting."
 Seraphine pulled the communication crystal from her pack, thumbing it active. "I'm requesting transport. We need to bring them back."
-"I'm going with you," Damion said. "They'll need help getting the carts through here."
+"I'm going with you," Damian said. "They'll need help getting the carts through here."
 Ann crouched near the nearest corpse, examining the throat wounds without touching. "We'll keep watch. Without the fae around, something will definitely try approaching."
-Damion studied the torn flesh, then glanced at Azael. "What do you think did this?"
+Damian studied the torn flesh, then glanced at Azael. "What do you think did this?"
 Anathema's roots shifted. "Something with fangs."
 Seraphine looked up from the crystal. "Really?"
 Azael hummed, the sound low and considering. "Yes, but..." Her head tilted. "Weird."
 "Cecil would know." Ann shot Seraphine another glare. "That weirdo knows everything."
-Damion sighed, suddenly looking exhausted. "Let's go. I'm tired and this place always gives me the creeps."
+Damian sighed, suddenly looking exhausted. "Let's go. I'm tired and this place always gives me the creeps."
 "Are you alright?" Seraphine asked Azael.
 Azael's eyebrows rose. "Of course?"
 The confusion felt genuine. Too genuine. Seraphine's jaw tightened, but the crystal warmed in her palm—the guild responding. She had work to do.
@@ -1359,7 +1359,7 @@ A groan escaped her throat. "If I didn't, we would have stayed there forever. An
 "Not much choice. Rei wasn't there to look away."
 The reminder stung. Rei would've provided perfect distraction—eager questions, genuine curiosity about technique rather than suspicion. Heroes investigating other heroes felt natural. Heroes investigating random guild members with weird constructs and convenient timing? That drew attention.
 "We'll need to be extra careful. Extra normal."
-"That won't work." Anathema's branches creaked softly. "She was looking at you like Celeste looks at Damion when he isn't looking."
+"That won't work." Anathema's branches creaked softly. "She was looking at you like Celeste looks at Damian when he isn't looking."
 Azael's arm lifted. "Like he needs a shower?"
 Silence stretched. Then Anathema's frame shifted—almost a sigh, if wood could sigh. "No. Like it's something she doesn't understand but wants to."
 "They have something special." Azael waved dismissively. "But to Seraphine, I'm someone hiding something. Heroes are curious—take Rei for example."

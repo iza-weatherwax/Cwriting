@@ -66,9 +66,9 @@
 
 ## CHAPTER 3 — Recruitment & departure to the Red Forest
 
-**Characters + Action:** Seraphine picks the missing caravan quest in the Red Forest → goes to the bakery to recruit Azael → flirtation begins; they recruit Damion and Ann at the cottage.
-**Revelation/Setup:** Ann is hostile toward Seraphine out of resentment toward the guild (her mother recently died; Damion and Ann lost board access). Damion agrees to prove Rei was right.
-**Space shift:** Guild → bakery → Damion's cottage → Red Forest entrance.
+**Characters + Action:** Seraphine picks the missing caravan quest in the Red Forest → goes to the bakery to recruit Azael → flirtation begins; they recruit Damian and Ann at the cottage.
+**Revelation/Setup:** Ann is hostile toward Seraphine out of resentment toward the guild (her mother recently died; Damian and Ann lost board access). Damian agrees to prove Rei was right.
+**Space shift:** Guild → bakery → Damian's cottage → Red Forest entrance.
 **Emotional shift:** Seraphine (investigative → frustrated by her own guilt); Ann (furious → minimally contained); Azael (reluctant → joins with irony).
 **Open thread:** Seraphine admits aloud "we broke something that was working." She still doesn't know the full extent of the damage.
 
