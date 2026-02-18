@@ -4,7 +4,17 @@
 
 Iza is writing a **fantasy romance novel** built around a slow-burn relationship. The project uses a set of comprehensive reference files — character profiles (every character has it's own .md with their respective names), world rules (`mana.md', 'mana_reading.md', 'rule_hidden_layers.md', 'rule_prose_style.md', 'the_west.md', 'types_of_magic.md`), what has happened so far ('event_index.md',) and a full story progress document — that must inform every scene.
 
----
+At the start of each session, read Claude.md file.
+Evertime I mention the name of the character or any object withing the GitHub folder, read again its content and use it to generate the best answer to the prompt.
+Any prompt result I approve (If I approve, I won't ask changes, but you can and should clarify with me in case of doubt), you will continue the novel.md
+Update the event_index.md (each update needs to be short, try up to 50 tokens or words) with the following format.
+  Characters + actions -> results.: [X + Y: ação → resultado]
+  Revelation/Setup: [essential event/fact]
+  Change in space/scenerio: [old space/scenerio -> new space/scenerio]
+  Emotional Shift: [Character (old state -> new state)
+  conflict/promisse unsolved.
+  Lembrete: Formato telegráfico, NÃO prosa narrativa.
+  ---
 
 ## Collaborative Writing Process
 
@@ -57,3 +67,5 @@ Every action in the prompt must become a full scene containing:
 2. **Develop the action** — in narrative present tense (show it happening, don't summarize)
 3. **Alternate** — external action ↔ POV's internal reaction
 4. **End in tension** — close on a moment of tension OR emotional resolution; never lukewarm
+
+
