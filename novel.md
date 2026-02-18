@@ -1778,4 +1778,476 @@ Anathema shifted, roots creaking as he bent to let a small girl perch on his sho
 No one spoke. The truth hung heavier than the steam rising from the pots.
 
 
+Chapter 6
+The Wrong Game
+
+The reports were clean. That was the first thing Seraphine noticed every morning — Irene's work was always clean.
+
+No crossings-out. No corrections in the margins. Just precise notation, seals where seals belonged, classifications that matched the incident reports with mechanical accuracy. Working beside her was like watching a well-maintained clock.
+
+"The Child Eater nest has been reclassified from active threat to contained incident," Irene said, without looking up. "The captain's certification came through this morning."
+
+"Good." Seraphine marked her own copy.
+
+Marvenna moved somewhere behind them, sorting parchments. Lina was at the far table, working through something for Sora. The guild hall smelled like lamp oil and old stone, the way it always did in the morning before the adventurers arrived to fog it up with sweat and loud opinions.
+
+Selene leaned against the pillar near the window.
+
+She always chose that pillar. Seraphine had noticed this weeks ago and couldn't explain why it bothered her. Solid stone, good sightlines to both doors. The choice made tactical sense.
+
+Selene handled her sword with the absentminded ease of someone who'd done it so long the motion had stopped being a choice. Run thumb along the flat of the blade. Check the grip. Repeat. Her eyes tracked the room, cataloguing, assessing — and then, finding nothing, went blank.
+
+Not bored, exactly. Just elsewhere.
+
+Irene set down her pen. "The Red Forest bodies were identified. Merchants from Haventh. Contracted to a trading company that has since been notified."
+
+"Families?"
+
+"Notified as well."
+
+Seraphine nodded. Pressed her seal to the document.
+
+* * *
+
+The memory arrived while she was reviewing the reclassification criteria for post-incident threat assessments. Just a small thing. The kind that pressed against the inside of her skull and then left without giving her anything useful to do with it.
+
+Capital, three years ago. A man at the petition desk. Older, scarred at the wrist in the specific way you got scarred from a weapon strap after years of use. No mana signature worth noting. He'd been requesting reclassification as a support auxiliary — not a fighter, not a scout, just someone who could formally escort teams through the lower passes he'd navigated for twenty years.
+
+Denied in thirty seconds.
+
+Not enough mana for active registration. Auxiliary classifications required baseline Level-1 assessment. He didn't meet the threshold. The man nodded, picked up his bag, left.
+
+Seraphine had been in the room. She'd been reviewing something else. The man had been scenery.
+
+She thought of Damian now. Same hands. Same wrist. Same two decades of knowledge that couldn't be quantified on any assessment form.
+
+She pressed her seal harder than necessary.
+
+"—which brings me to the issue of Rei's petition." Irene set down her pen with careful precision. "The capital rejected it."
+
+Seraphine looked up.
+
+"Again," Irene added.
+
+The lamp oil smell seemed heavier.
+
+* * *
+
+The noise came first.
+
+Not shouting — not quite. More the sound of someone moving through a space at the wrong speed, footsteps too certain, too quick for what the guild hall's morning pace expected. Marvenna looked up from her desk. Lina's head turned. Selene's hand dropped from the blade grip to close around the pommel.
+
+Rei came through the main doors like a controlled fire.
+
+She was travel-dirty, road-grime on her boots, her pack still on one shoulder like she'd come straight from the gate. Her jaw was set so hard Seraphine could see the muscle jumping. She crossed the hall without looking at anyone, which was worse somehow than if she had.
+
+She put the papers on Irene's desk.
+
+"Denied." Her voice came out very level. The kind of level you achieved by working at it. "The capital denied the petition for provisional reinstatement of Level-1 auxiliary status."
+
+Selene moved. Not dramatically — just a small shift of weight, one step that put her closer to Irene. Hand still on her sword.
+
+Irene didn't look at Selene.
+
+"Selene." Her voice was quiet. "Stand down."
+
+Selene didn't move.
+
+"Please."
+
+A beat. Selene's hand dropped.
+
+Irene turned to Rei.
+
+She looked at her for a moment without speaking. Seraphine had seen Irene look at people before — that cool, level assessment that processed information and reached conclusions at speeds she didn't broadcast. This was different. Something had shifted in the architecture of that expression.
+
+"I owe you an apology," Irene said.
+
+Rei's jaw moved.
+
+"I never received the reports," Irene continued. Her voice stayed even, but the words cost something — Seraphine could tell because Irene's hands settled flat on the desk, very still. "The petitions, the flagged incidents, the assessments. None of them were forwarded to me. I don't know whether it was administrative failure or deliberate blockage. What I know is that I was unaware, and I should have been."
+
+The silence lasted long enough to become a presence in the room.
+
+"I also know," Irene said, "that this doesn't fix anything."
+
+Rei looked at the papers on the desk. Then at Irene.
+
+Something passed through her face — fast, like a flinch she swallowed before it could land.
+
+"Seraphine agrees," Irene said. "She has, for some time."
+
+Rei looked at Seraphine.
+
+The look was a question and an assessment and something else underneath both — the particular wariness of someone who'd been told yes before and found it cost them more than the no had.
+
+Seraphine met her eyes. "You were right. About Ann. Damian. All of them."
+
+The words came out steadier than she expected. Which was good, because she wasn't sure what she would have done if they hadn't.
+
+Rei's breath left her. Not a sob — nothing dramatic. Just a slow exhale, like something had been pressing on her chest from the inside for a very long time and had finally, slightly, shifted. Her head dropped forward. Her hand pressed against the back of a chair.
+
+She stood there for a moment.
+
+Just stood.
+
+Seraphine looked away. It felt like the right thing to do.
+
+Selene, across the room, was watching Rei with the expression of someone observing internal politics they'd been told to care about and couldn't quite manage. Not cruel. Just — distant. The transaction of bureaucracy. The machinery reassembling itself.
+
+Seraphine had seen that expression before.
+
+She'd worn it.
+
+* * *
+
+Rei left the way she always did, Seraphine suspected — with purpose and no ceremony. She adjusted her pack strap, picked up her papers, and moved toward the door.
+
+Seraphine caught up with her in the corridor.
+
+"Rei."
+
+Rei slowed. Didn't stop completely, but slowed — the compromise of someone who didn't have time to refuse things but wasn't going to stand still for them either.
+
+"I'd like to come with you," Seraphine said.
+
+"Come with me where."
+
+"Wherever you're going."
+
+Rei looked at her sideways.
+
+"I want to understand how you see things," Seraphine said. "Because it's clear I don't know how. And I'd rather know that I'm wrong than keep doing it wrong quietly."
+
+Rei was quiet for a beat. Then she turned back toward the door.
+
+"Don't slow me down."
+
+Seraphine followed.
+
+Behind them, footsteps. She glanced back. Selene had appeared from the guild hall, coat buttoned, jaw set at its customary angle.
+
+Rei looked at her.
+
+"Irene," Selene said simply.
+
+"She doesn't trust me not to throttle the next messenger from the capital."
+
+"You have the face for it."
+
+Rei's mouth curved, brief and dry. She pushed the door open.
+
+* * *
+
+Rei didn't give tours.
+
+That was the first thing Seraphine understood when she couldn't find anything to call a destination. They moved through the commercial quarter at a pace that suggested Rei's feet were simply going somewhere they already knew, and the route was incidental.
+
+The market had hit its mid-morning rhythm — vendors finishing their setups, the first real customers moving between stalls. Normal sounds. Normal smells.
+
+A woman behind a fruit stall looked up as they passed.
+
+"Rei!"
+
+Rei stopped without visible surprise, the way you stopped for things you were already expecting.
+
+"Melena." She touched the woman's hand briefly, the greeting of someone who'd done it before. "How's your husband?"
+
+"Better." The woman's face eased. "The tea Sora recommended — he's been drinking it. His knee isn't what it was, but—"
+
+"That's good. Make him rest it, though. Tell him I said so."
+
+"He won't listen to me."
+
+"Tell him I'll come check."
+
+The woman laughed and pushed a pear toward Rei across the wooden edge of the stall. Rei took it. Declined the second with a small gesture that somehow managed to feel like appreciation rather than refusal, and moved on.
+
+Seraphine fell into step.
+
+Down the block, an older man leaned from a second-story window. He waved when he saw them. Rei waved back, cupped a hand to her mouth.
+
+"His grandson eating again?"
+
+The man's face broke into a grin wide enough to see from the street. He nodded.
+
+Rei visibly loosened — not much, but enough. A small release somewhere in her shoulders. She bit into the pear while they walked.
+
+Seraphine kept her pace steady and her mouth shut.
+
+She was watching for what she'd missed the first time. Then she realized she hadn't been paying attention to any of this before — not to this street, not to this vendor, not to the old man at the window. She'd walked through this quarter before. She was sure of it.
+
+She couldn't have told you a single name.
+
+* * *
+
+Capital, fourteen months. She'd walked past the same guard at the barracks entrance every morning and every evening. He'd stood at his post. He'd checked clearance. He was part of the architecture, the way the door was part of the architecture.
+
+She tried now to remember his face.
+
+She couldn't.
+
+* * *
+
+Selene walked two paces behind them.
+
+When the fruit vendor called out, Selene exhaled through her nose — not quite a sigh. When Rei waved at the old man's window, Selene checked the seam of her glove.
+
+Her body language read, plainly: *this is not a hero's work.*
+
+Seraphine knew because she could still read herself.
+
+* * *
+
+The streets got narrower.
+
+Smaller houses, paint older, window frames in need of replacing. Selene's posture shifted — not dramatically, but her awareness turned outward, tactical. She started scanning exits.
+
+Seraphine watched and said nothing.
+
+Rei stopped.
+
+No warning. Just — stopped. In front of a bench near a closed door. The bench was empty. The door was closed. Nothing about either was remarkable unless you knew what should have been there.
+
+She looked at a man crouched over a repair on his front step. He noticed her looking and straightened.
+
+"That bench," Rei said. Her voice was even. "The old man who usually sits there."
+
+The man rubbed the back of his neck. "Haven't seen him. Two days."
+
+"The door's been closed?"
+
+"Far as I know."
+
+Rei's jaw tightened. The kind of tightening that meant she was already planning, not panicking.
+
+Seraphine looked at the bench.
+
+She saw a bench. She saw a door. She saw a corner of a street that was notable for nothing.
+
+For Rei, the absence was as visible as a body on the ground.
+
+"Where does he usually go?" Rei asked.
+
+"Nowhere, that's the thing. He's there every morning. Has been for eight years."
+
+"Does he have family nearby?"
+
+"Not that I know of."
+
+Rei looked at the door for a moment longer, then at the man on the step. "If you see him, will you send word to the guild? Ask for me specifically."
+
+"Sure." A pause. "You think he's okay?"
+
+"I don't know yet."
+
+She moved on.
+
+Seraphine fell back into step.
+
+She understood what had happened. She'd seen everything Rei had seen — the bench, the door, the man, the absence. But she hadn't known to be alarmed, because she hadn't known what should have been there. She'd had no framework for the empty space.
+
+Rei had a map of presences.
+
+Seraphine had a map of categories.
+
+"People disappear all the time."
+
+Selene's voice was measured. Not callous — just precise, the precision of someone stating the obvious before others wasted time on it. "It's not a hero's job to track every civilian who decides not to show up."
+
+Rei kept walking.
+
+She didn't respond. She didn't look at Selene. She just kept walking, and the not-looking was total — not pointedly dismissive, just the complete absence of investment. The way you didn't look at weather.
+
+Seraphine's stomach turned over.
+
+Because she knew the logic Selene had used. She'd used it herself. It was in every manual, every protocol she'd ever worked from. Triage. Prioritize. Limit your scope to what can be managed. Heroes couldn't carry everyone. The criteria for choosing was a map of relevant threats.
+
+Selene's answer was correct.
+
+By the manual.
+
+And the manual, Seraphine was starting to understand, was the problem.
+
+* * *
+
+The route shifted.
+
+Rei's path carried them toward the older part of the commercial district — smaller shops, the smell of bread somewhere ahead. Mirtha's territory. Seraphine recognized the streets.
+
+A woman sweeping her step looked up when she saw Rei.
+
+"Azael stopped by yesterday," she offered, by way of greeting. "Left something for old Corvin — that bread he likes. Said she had extra."
+
+"Good." Rei's voice was easy. "Did he eat it?"
+
+"Every crumb. He was asking after her. Said she's the only one who remembers it's the kind without caraway."
+
+Rei's mouth curved — brief, genuine. They moved on.
+
+Selene had fallen further behind. Seraphine could hear her footsteps, but not close.
+
+"She knows what bread he likes," Seraphine said.
+
+It wasn't a question. She wasn't sure why she'd said it at all.
+
+"She's been coming this way for a while," Rei said. Simple, unadorned. Not: *Azael is remarkable.* Just: she's been here, so she knows.
+
+Further on, a teenage boy sat on a crate outside a shop, pretending to read. He looked up when they passed and nodded at Rei with the studied casualness of someone determined not to show they'd been watching for her.
+
+"She fixed the window," he said.
+
+Rei raised an eyebrow.
+
+"The back one. It wouldn't close all the way and my mum was worried about—" He shrugged. "She just fixed it. Didn't ask."
+
+Rei nodded, unsurprised.
+
+Seraphine kept walking and assembled the picture slowly, the way you assembled something from parts without instructions.
+
+She knew Azael.
+
+She knew the mana readings — the flat line on the assessment form, impossible and unmoving. She knew the flirtation deployed like armour. She knew the knife stopping mid-cut when something hit a nerve. The way those light eyes tracked across a room and landed exactly where they chose.
+
+She knew the mystery of her.
+
+And that was the thing. She'd been trying to solve a mystery. Not to know a person.
+
+Same subject. Different angle. From this angle the subject looked entirely different.
+
+Azael was leaving bread for old men who liked specific kinds. Azael was fixing windows without being asked and then, presumably, telling no one she'd done it. Azael had been here, and she had been *paying attention.*
+
+"The protective sigils that appeared under Mirtha's windows." Rei said it while walking, as the continuation of a thought she'd started somewhere else. "Azael denies them."
+
+"What do you mean, denies them?"
+
+"I mean she says she didn't put them there." Rei's voice was completely flat about this. "Mirtha found the same sigils under Elena's windowsill. Under Tomé's school step. Under a few others."
+
+"And Azael—"
+
+"Denies all of them."
+
+Seraphine turned this over.
+
+Someone who protects things and then refuses to take credit for having done it. Not false modesty — something more fundamental. As if the protection itself was the point and the witness was irrelevant.
+
+Heroes were seen. That was the architecture of it — mission completed, report submitted, rank acknowledged. You did the thing, and then you were known for the thing. That was how it worked.
+
+Azael did things and then shrugged them off like they hadn't happened.
+
+And somehow the things still mattered. The sigils were still there. The bread was still eaten.
+
+* * *
+
+They stopped at a small square with a fountain that wasn't running. Benches on two sides, a chestnut tree losing the last of its leaves.
+
+Selene found a wall to stand against. Seraphine sat. Rei stood.
+
+"Why did you insist on her?" Seraphine asked.
+
+Rei looked at her.
+
+"Azael. When we started looking at her — you were always in the way. Not defending her, exactly. Just there."
+
+Rei sat down on the other bench. She looked at her hands.
+
+"She fixed a problem before I could see it," she said finally. "The first time. Something in the lower quarter — I won't get into it. I'd been tracking it for a week, and then it just wasn't a problem anymore. And when I asked around, nobody had done anything. Nobody remembered anything being fixed."
+
+"But you knew it was her."
+
+"I had a suspicion. Then there were others. Small things. All with the same quality — resolved, clean, and nobody claiming credit." She paused. "I tested it once. Let something sit that I could've fixed myself, to see what would happen. Watched for a month."
+
+"She fixed it."
+
+"Eventually. And when I asked her about it, she told me I was delusional."
+
+Seraphine laughed — a small sound, unexpected.
+
+Rei's mouth curved. "I stopped asking and started watching. And you can't watch Azael for long without noticing that what she values has nothing to do with rank or recognition. She cares about the things that work. Whether or not she's visible."
+
+She stopped.
+
+"I don't know what she is," she said. The words were frank, without apology. "I know what she does. What she does matters."
+
+The fountain wasn't running. A pigeon was doing something aggressively purposeful on the far bench.
+
+Seraphine looked at her own hands.
+
+She tried to imagine operating that way. Caring whether the thing worked without needing to be the one who worked it. She tried to imagine filing a report for someone else to take credit for, not as sacrifice, but as the point.
+
+She couldn't, quite. The shape of it was there but she couldn't fill it.
+
+*That's the problem.*
+
+Not the mystery of Azael. Not the mana readings or the invisible threads or the fae fleeing from something they recognized. Those were questions with answers somewhere.
+
+The problem was simpler.
+
+She'd been trying to understand Azael's how, and Rei was telling her she'd missed the what entirely.
+
+Selene, across the square, was looking at the tree.
+
+She looked, Seraphine thought, like someone waiting for this to be over.
+
+*That's who you were.*
+
+The thought arrived without drama. Quiet. Accurate.
+
+*That's exactly who you were.*
+
+* * *
+
+Her room faced east.
+
+She'd always been grateful for that — morning light rather than evening, which suited someone who went to bed when things were finally quiet. The window had a ledge wide enough for her elbows, which she used now.
+
+The city did what cities did at night. Lamps. Distant voices. A dog somewhere. The changing of a guard patrol, boots on stone, measured and repetitive.
+
+Normal sounds. Safe sounds.
+
+She thought about the capital machine.
+
+It had run beautifully. Precise, documented, reproducible. She'd been a good cog — she knew this about herself, had been proud of it. The work was clean, the numbers accounted for, the classifications matched their outcomes. She'd done her work well and the machine had been efficient and she hadn't needed to question it because the numbers had said everything was working.
+
+The numbers had not said: *a man's wife is hungry because the caravan didn't come. A child's guardian couldn't file a report. A veteran knew the passes and no one would hear him because he didn't have enough mana for the form.*
+
+The numbers hadn't said any of that.
+
+She hadn't asked.
+
+She thought about Selene.
+
+*People disappear all the time. It's not a hero's job.*
+
+The words had sounded reasonable. She'd thought so too, once. She'd thought a lot of reasonable things that had amounted to nothing useful when Bia was missing from her bedroom and a ten-year-old boy had been the only one who could smell the right thing.
+
+She and Selene had been very similar people when she'd first arrived here.
+
+She wasn't sure when that had stopped being true.
+
+She thought about Azael. Not the question of her — just the fact of her. Which was different.
+
+The sigils under the windowsills. The bread without caraway seeds. The window that wouldn't close, fixed and unmentioned. The way Azael flirted like it was noise and then, in the very same sentence, said something completely precise and careful — and you realized the noise had been covering the care.
+
+*I do look. You just never notice when I'm actually being subtle.*
+
+She'd thought that was the flirting. She was starting to think it was less simple.
+
+The bakery light was still on.
+
+She hadn't been looking for it. She'd just noticed it — warm yellow through a pane of glass at the end of the street. Too late for Mirtha to still be baking. Possibly one of the kids. Possibly anyone.
+
+The sigils would be there, under the windowsill. Whether anyone was looking at them or not.
+
+The protection worked either way.
+
+A month ago she would have walked past that light without registering it. She would have categorized the street, moved on.
+
+Now it sat in her chest like something specific.
+
+She didn't complete the thought that came after.
+
+Not yet.
+
+But it had been registered.
 
