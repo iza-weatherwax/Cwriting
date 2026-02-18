@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Iza is writing a **fantasy romance novel** built around a slow-burn relationship. The project uses a set of comprehensive reference files — character profiles (every character hass it's own .md with their respective names), world rules (`mana.md', 'mana_reading.md', 'rule_hidden_layers.md', 'rule_prose_style.md', 'the_west.md', 'types_of_magic.md`), event indices, and a full story progress document — that must inform every scene.
+Iza is writing a **fantasy romance novel** built around a slow-burn relationship. The project uses a set of comprehensive reference files — character profiles (every character has it's own .md with their respective names), world rules (`mana.md', 'mana_reading.md', 'rule_hidden_layers.md', 'rule_prose_style.md', 'the_west.md', 'types_of_magic.md`), what has happened so far ('event_index.md',) and a full story progress document — that must inform every scene.
 
 ---
 
